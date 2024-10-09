@@ -1,13 +1,45 @@
-body {
+*{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>;
+  font-style: normal; */
+}
+reem-kufi-fun {
+  font-family: "Reem Kufi Fun", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>;
+  font-style: normal; */
+}
+jost {
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>;
+  font-style: normal; */
+}
+baloo-paaji-2{
+  font-family: "Baloo Paaji 2", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>;
+  font-style: normal; */
+}
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  /* font-style: italic; */
+}
+.jost {
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>;
+  font-style: normal; */
+}
+.plus-jakarta-sans {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>;
+  font-style: normal; */
 }
